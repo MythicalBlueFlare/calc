@@ -1124,7 +1124,7 @@ var DPP_PATCH = {
     'Rock Wrecker': { bp: 150, type: 'Rock', category: 'Physical' },
     'Seed Bomb': { bp: 80, type: 'Grass', category: 'Physical' },
     'Shadow Claw': {
-        bp: 70,
+        bp: 85,
         type: 'Ghost',
         makesContact: true,
         category: 'Physical'
@@ -2762,7 +2762,7 @@ var SM_PATCH = {
     },
     'Speed Swap': { bp: 0, type: 'Psychic' },
     'Spirit Shackle': {
-        bp: 80,
+        bp: 90,
         type: 'Ghost',
         category: 'Physical',
         secondaries: true,
@@ -4736,6 +4736,19 @@ var SV_PATCH = {
         secondaries: true,
         isWind: true,
         target: 'allAdjacentFoes'
+    },
+    'Temper Flare': {
+        bp: 75,
+        type: 'Fire',
+        makesContact: true,
+        category: 'Physical',
+        zp: 140
+    },
+    'Alluring Voice': {
+        bp: 80,
+        type: 'Fairy',
+        category: 'Special',
+        zp: 160
     }
 };
 var SV = (0, util_1.extend)(true, {}, SS, SV_PATCH);

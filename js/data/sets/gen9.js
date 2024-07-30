@@ -96,7 +96,7 @@ var SETDEX_SV = {
   },
 
   "Qwilfish-Hisui": {
-    "Matt Route 115": {
+    "Aqua Admin Matt Route 115": {
       "level": 15,
       "ability": "Intimidate",
       "nature": "Jolly",
@@ -112,7 +112,7 @@ var SETDEX_SV = {
   },
 
   "Corsola-Galar": {
-    "Matt Route 115": {
+    "Aqua Admin Matt Route 115": {
       "level": 15,
       "ability": "Cursed Body",
       "nature": "Bold",
@@ -128,7 +128,7 @@ var SETDEX_SV = {
   },
 
   "Darumaka-Galar": {
-    "Matt Route 115": {
+    "Aqua Admin Matt Route 115": {
       "level": 15,
       "ability": "Hustle",
       "nature": "Adamant",
@@ -144,7 +144,7 @@ var SETDEX_SV = {
   },
 
   "Finizen": {
-    "Matt Route 115": {
+    "Aqua Admin Matt Route 115": {
       "level": 16,
       "ability": "Water Veil",
       "nature": "Adamant",
@@ -259,6 +259,35 @@ var SETDEX_SV = {
     }
   },
 
+  "Crocalor": {
+    "Fire Rival Rustboro City": {
+      "level": 18,
+      "ability": "Blaze",
+      "nature": "Quiet",
+      "item": "Eviolite",
+      "index": 13,
+      "moves": [
+        "Incinerate",
+        "Seed Bomb",
+        "Yawn",
+        "Slack Off"
+      ]
+    },
+    "Fire Rival Route 110": {
+      "level": 32,
+      "ability": "Blaze",
+      "nature": "Quiet",
+      "item": "Eviolite",
+      "index": 94,
+      "moves": [
+        "Flamethrower",
+        "Seed Bomb",
+        "Eerie Spell",
+        "Slack Off"
+      ]
+    }
+  },
+
   "Fletchinder": {
     "Grass Rival Rustboro City": {
       "level": 17,
@@ -288,35 +317,6 @@ var SETDEX_SV = {
     }
   },
 
-  "Crocalor": {
-    "Fire Rival Rustboro City": {
-      "level": 18,
-      "ability": "Blaze",
-      "nature": "Quiet",
-      "item": "Eviolite",
-      "index": 13,
-      "moves": [
-        "Incinerate",
-        "Seed Bomb",
-        "Yawn",
-        "Slack Off"
-      ]
-    },
-    "Fire Rival Route 110": {
-      "level": 32,
-      "ability": "Blaze",
-      "nature": "Quiet",
-      "item": "Eviolite",
-      "index": 101,
-      "moves": [
-        "Flamethrower",
-        "Seed Bomb",
-        "Eerie Spell",
-        "Slack Off"
-      ]
-    }
-  },
-
   "Floragato": {
     "Grass Rival Rustboro City": {
       "level": 18,
@@ -336,7 +336,7 @@ var SETDEX_SV = {
       "ability": "Overgrow",
       "nature": "Adamant",
       "item": "Eviolite",
-      "index": 95,
+      "index": 100,
       "moves": [
         "Seed Bomb",
         "Thunder Punch",
@@ -365,7 +365,7 @@ var SETDEX_SV = {
       "ability": "Torrent",
       "nature": "Adamant",
       "item": "Eviolite",
-      "index": 107,
+      "index": 106,
       "moves": [
         "Liquidation",
         "Brick Break",
@@ -376,7 +376,7 @@ var SETDEX_SV = {
   },
 
   "Tyrunt": {
-    "Josh": {
+    "Youngster Josh": {
       "level": 17,
       "ability": "Strong Jaw",
       "nature": "Adamant",
@@ -392,7 +392,7 @@ var SETDEX_SV = {
   },
 
   "Archen": {
-    "Josh": {
+    "Youngster Josh": {
       "level": 17,
       "ability": "Defeatist",
       "nature": "Adamant",
@@ -408,7 +408,7 @@ var SETDEX_SV = {
   },
 
   "Amaura": {
-    "Josh": {
+    "Youngster Josh": {
       "level": 17,
       "ability": "Refrigerate",
       "nature": "Modest",
@@ -424,7 +424,7 @@ var SETDEX_SV = {
   },
 
   "Stonjourner": {
-    "Marc": {
+    "Hiker Marc & Youngster Tommy": {
       "level": 18,
       "ability": "Power Spot",
       "nature": "Careful",
@@ -440,7 +440,7 @@ var SETDEX_SV = {
   },
 
   "Boldore": {
-    "Tommy": {
+    "Hiker Marc & Youngster Tommy": {
       "level": 17,
       "ability": "Battle Armor",
       "nature": "Adamant",
@@ -456,7 +456,7 @@ var SETDEX_SV = {
   },
 
   "Krokorok": {
-    "Tommy": {
+    "Hiker Marc & Youngster Tommy": {
       "level": 17,
       "ability": "Intimidate",
       "nature": "Jolly",
@@ -472,7 +472,7 @@ var SETDEX_SV = {
   },
 
   "Klawf": {
-    "Tommy": {
+    "Hiker Marc & Youngster Tommy": {
       "level": 17,
       "ability": "Anger Shell",
       "nature": "Lonely",
@@ -481,14 +481,14 @@ var SETDEX_SV = {
       "moves": [
         "Rock Tomb",
         "Stomping Tantrum",
-        "X Scissor",
+        "X-Scissor",
         "Trailblaze"
       ]
     }
   },
 
   "Naclstack": {
-    "Roxanne": {
+    "Leader Roxanne": {
       "level": 17,
       "ability": "Purifying Salt",
       "nature": "Impish",
@@ -504,7 +504,7 @@ var SETDEX_SV = {
   },
 
   "Growlithe-Hisui": {
-    "Roxanne": {
+    "Leader Roxanne": {
       "level": 17,
       "ability": "Intimidate",
       "nature": "Adamant",
@@ -520,7 +520,7 @@ var SETDEX_SV = {
   },
 
   "Sandygast": {
-    "Roxanne": {
+    "Leader Roxanne": {
       "level": 17,
       "ability": "Water Compaction",
       "nature": "Quiet",
@@ -536,7 +536,7 @@ var SETDEX_SV = {
   },
 
   "Glimmet": {
-    "Roxanne": {
+    "Leader Roxanne": {
       "level": 17,
       "ability": "Corrosion",
       "nature": "Modest",
@@ -551,8 +551,8 @@ var SETDEX_SV = {
     }
   },
 
-  "Minior-Meteor": {
-    "Roxanne": {
+  "Minior-Core-Red": {
+    "Leader Roxanne": {
       "level": 18,
       "ability": "Shields Down",
       "nature": "Rash",
@@ -568,7 +568,7 @@ var SETDEX_SV = {
   },
 
   "Cutiefly": {
-    "Sarah": {
+    "Lady Sarah & Rich Boy Dawson": {
       "level": 18,
       "ability": "Shield Dust",
       "nature": "Timid",
@@ -584,7 +584,7 @@ var SETDEX_SV = {
   },
 
   "Quilladin": {
-    "Sarah": {
+    "Lady Sarah & Rich Boy Dawson": {
       "level": 18,
       "ability": "Overgrow",
       "nature": "Adamant",
@@ -597,7 +597,7 @@ var SETDEX_SV = {
         "Synthesis"
       ]
     },
-    "Lilith": {
+    "Black Belt Cristian & Battle Girl Lilith": {
       "level": 19,
       "ability": "Bulletproof",
       "nature": "Adamant",
@@ -613,7 +613,7 @@ var SETDEX_SV = {
   },
 
   "Helioptile": {
-    "Dawson": {
+    "Lady Sarah & Rich Boy Dawson ": {
       "level": 18,
       "ability": "Dry Skin",
       "nature": "Timid",
@@ -629,7 +629,7 @@ var SETDEX_SV = {
   },
 
   "Brionne": {
-    "Dawson": {
+    "Lady Sarah & Rich Boy Dawson ": {
       "level": 18,
       "ability": "Torrent",
       "nature": "Modest",
@@ -645,7 +645,7 @@ var SETDEX_SV = {
   },
 
   "Mienfoo": {
-    "Laura": {
+    "Battle Girl Laura": {
       "level": 19,
       "ability": "Inner Focus",
       "nature": "Timid",
@@ -660,8 +660,8 @@ var SETDEX_SV = {
     }
   },
 
-  "Farfetch’d-Galar": {
-    "Laura": {
+  "Farfetchd-Galar": {
+    "Battle Girl Laura": {
       "level": 19,
       "ability": "Scrappy",
       "nature": "Adamant",
@@ -677,7 +677,7 @@ var SETDEX_SV = {
   },
 
   "Stufful": {
-    "Laura": {
+    "Battle Girl Laura": {
       "level": 19,
       "ability": "Fluffy",
       "nature": "Adamant",
@@ -693,7 +693,7 @@ var SETDEX_SV = {
   },
 
   "Sawk": {
-    "Takao": {
+    "Black Belt Takao": {
       "level": 18,
       "ability": "Sturdy",
       "nature": "Jolly",
@@ -703,13 +703,13 @@ var SETDEX_SV = {
         "Low Sweep",
         "Rock Tomb",
         "Poison Jab",
-        "Power-Up Punch"
+        "Power Up Punch"
       ]
     }
   },
 
   "Throh": {
-    "Takao": {
+    "Black Belt Takao": {
       "level": 18,
       "ability": "Guts",
       "nature": "Adamant",
@@ -719,13 +719,13 @@ var SETDEX_SV = {
         "Storm Throw",
         "Rock Tomb",
         "Assurance",
-        "Power-Up Punch"
+        "Power Up Punch"
       ]
     }
   },
 
   "Tauros-Paldea": {
-    "Cristian": {
+    "Black Belt Cristian & Battle Girl Lilith": {
       "level": 18,
       "ability": "Intimidate",
       "nature": "Hardy",
@@ -741,7 +741,7 @@ var SETDEX_SV = {
   },
 
   "Jangmo-o": {
-    "Lilith": {
+    "Black Belt Cristian & Battle Girl Lilith": {
       "level": 19,
       "ability": "Bulletproof",
       "nature": "Adamant",
@@ -757,7 +757,7 @@ var SETDEX_SV = {
   },
 
   "Pawmo": {
-    "Lilith": {
+    "Black Belt Cristian & Battle Girl Lilith": {
       "level": 19,
       "ability": "Iron Fist",
       "nature": "Jolly",
@@ -773,7 +773,7 @@ var SETDEX_SV = {
   },
 
   "Gurdurr": {
-    "Jocelyn": {
+    "Battle Girl Jocelyn": {
       "level": 19,
       "ability": "Iron Fist",
       "nature": "Adamant",
@@ -783,13 +783,13 @@ var SETDEX_SV = {
         "Drain Punch",
         "Rock Tomb",
         "Knock Off",
-        "Power-Up Punch"
+        "Power Up Punch"
       ]
     }
   },
 
   "Falinks": {
-    "Jocelyn": {
+    "Battle Girl Jocelyn": {
       "level": 18,
       "ability": "Battle Armor",
       "nature": "Naive",
@@ -805,7 +805,7 @@ var SETDEX_SV = {
   },
 
   "Clobbopus": {
-    "Brenden": {
+    "Sailor Brenden": {
       "level": 19,
       "ability": "Technician",
       "nature": "Adamant",
@@ -821,7 +821,7 @@ var SETDEX_SV = {
   },
 
   "Crabrawler": {
-    "Brenden": {
+    "Sailor Brenden": {
       "level": 18,
       "ability": "Hyper Cutter",
       "nature": "Jolly",
@@ -837,7 +837,7 @@ var SETDEX_SV = {
   },
 
   "Dewott": {
-    "Brenden": {
+    "Sailor Brenden": {
       "level": 19,
       "ability": "Sharpness",
       "nature": "Jolly",
@@ -846,14 +846,14 @@ var SETDEX_SV = {
       "moves": [
         "Aqua Cutter",
         "Cut",
-        "X Scissor",
+        "X-Scissor",
         "Aqua Jet"
       ]
     }
   },
 
   "Scraggy": {
-    "Brawly": {
+    "Leader Brawly": {
       "level": 19,
       "ability": "Intimidate",
       "nature": "Adamant",
@@ -869,7 +869,7 @@ var SETDEX_SV = {
   },
 
   "Sneasel-Hisui": {
-    "Brawly": {
+    "Leader Brawly": {
       "level": 19,
       "ability": "Inner Focus",
       "nature": "Adamant",
@@ -885,7 +885,7 @@ var SETDEX_SV = {
   },
 
   "Pignite": {
-    "Brawly": {
+    "Leader Brawly": {
       "level": 19,
       "ability": "Thick Fat",
       "nature": "Adamant",
@@ -901,7 +901,7 @@ var SETDEX_SV = {
   },
 
   "Primeape": {
-    "Brawly": {
+    "Leader Brawly": {
       "level": 18,
       "ability": "Defiant",
       "nature": "Jolly",
@@ -917,7 +917,7 @@ var SETDEX_SV = {
   },
 
   "Flamigo": {
-    "Brawly": {
+    "Leader Brawly": {
       "level": 20,
       "ability": "Costar",
       "nature": "Naughty",
@@ -965,7 +965,7 @@ var SETDEX_SV = {
   },
 
   "Swoobat": {
-    "Courtney Dewford Springs": {
+    "Magma Admin Courtney Dewford Springs": {
       "level": 25,
       "ability": "Simple",
       "nature": "Timid",
@@ -981,7 +981,7 @@ var SETDEX_SV = {
   },
 
   "Sliggoo": {
-    "Courtney Dewford Springs": {
+    "Magma Admin Courtney Dewford Springs": {
       "level": 25,
       "ability": "Gooey",
       "nature": "Modest",
@@ -997,7 +997,7 @@ var SETDEX_SV = {
   },
 
   "Scovillain": {
-    "Courtney Dewford Springs": {
+    "Magma Admin Courtney Dewford Springs": {
       "level": 25,
       "ability": "Chlorophyll",
       "nature": "Jolly",
@@ -1009,11 +1009,24 @@ var SETDEX_SV = {
         "Lash Out",
         "Growth"
       ]
+    },
+    "Arven": {
+      "level": 35,
+      "ability": "Harvest",
+      "nature": "Modest",
+      "item": "Sitrus Berry",
+      "index": 144,
+      "moves": [
+        "Giga Drain",
+        "Flamethrower",
+        "Leech Seed",
+        "Protect"
+      ]
     }
   },
 
   "Salazzle": {
-    "Courtney Dewford Springs": {
+    "Magma Admin Courtney Dewford Springs": {
       "level": 26,
       "ability": "Corrosion",
       "nature": "Modest",
@@ -1109,7 +1122,7 @@ var SETDEX_SV = {
   },
 
   "Araquanid": {
-    "Dwayne": {
+    "Sailor Dwayne": {
       "level": 24,
       "ability": "Water Bubble",
       "nature": "Adamant",
@@ -1125,7 +1138,7 @@ var SETDEX_SV = {
   },
 
   "Cramorant": {
-    "Dwayne": {
+    "Sailor Dwayne": {
       "level": 24,
       "ability": "Gulp Missile",
       "nature": "Modest",
@@ -1141,7 +1154,7 @@ var SETDEX_SV = {
   },
 
   "Barraskewda": {
-    "Dwayne": {
+    "Sailor Dwayne": {
       "level": 24,
       "ability": "Swift Swim",
       "nature": "Adamant",
@@ -1149,7 +1162,7 @@ var SETDEX_SV = {
       "index": 70,
       "moves": [
         "Waterfall",
-        "Night Slash",
+        "Ice Fang",
         "Drill Run",
         "Sleep Talk"
       ]
@@ -1157,7 +1170,7 @@ var SETDEX_SV = {
   },
 
   "Tatsugiri": {
-    "Johanna": {
+    "Beauty Johanna": {
       "level": 24,
       "ability": "Commander",
       "nature": "Modest",
@@ -1173,7 +1186,7 @@ var SETDEX_SV = {
   },
 
   "Oinkologne": {
-    "Johanna": {
+    "Beauty Johanna": {
       "level": 24,
       "ability": "Lingering Aroma",
       "nature": "Adamant",
@@ -1189,7 +1202,7 @@ var SETDEX_SV = {
   },
 
   "Slowpoke-Galar": {
-    "Simon": {
+    "Tuber Simon": {
       "level": 24,
       "ability": "Regenerator",
       "nature": "Adamant",
@@ -1205,7 +1218,7 @@ var SETDEX_SV = {
   },
 
   "Clauncher": {
-    "Simon": {
+    "Tuber Simon": {
       "level": 24,
       "ability": "Mega Launcher",
       "nature": "Modest",
@@ -1254,7 +1267,7 @@ var SETDEX_SV = {
 
   "Drednaw": {
     "Aqua Grunt 2 Oceanic Museum": {
-      "level": 24,
+      "level": 23,
       "ability": "Strong Jaw",
       "nature": "Jolly",
       "item": "Rindo Berry",
@@ -1269,7 +1282,7 @@ var SETDEX_SV = {
   },
 
   "Golisopod": {
-    "Archie Oceanic Museum": {
+    "Aqua Leader Archie Oceanic Museum": {
       "level": 26,
       "ability": "Emergency Exit",
       "nature": "Adamant",
@@ -1284,29 +1297,13 @@ var SETDEX_SV = {
     }
   },
 
-  "Wishiwashi": {
-    "Archie Oceanic Museum": {
-      "level": 25,
-      "ability": "Schooling",
-      "nature": "Quiet",
-      "item": "Figy Berry",
-      "index": 79,
-      "moves": [
-        "Brine",
-        "Bulldoze",
-        "Facade",
-        "Whirlpool"
-      ]
-    }
-  },
-
   "Zweilous": {
-    "Archie Oceanic Museum": {
+    "Aqua Leader Archie Oceanic Museum": {
       "level": 25,
       "ability": "Hustle",
       "nature": "Jolly",
       "item": "Black Glasses",
-      "index": 80,
+      "index": 79,
       "moves": [
         "Lash Out",
         "Dragon Claw",
@@ -1317,12 +1314,12 @@ var SETDEX_SV = {
   },
 
   "Drizzile": {
-    "Archie Oceanic Museum": {
+    "Aqua Leader Archie Oceanic Museum": {
       "level": 25,
       "ability": "Torrent",
       "nature": "Hasty",
       "item": "Expert Belt",
-      "index": 81,
+      "index": 80,
       "moves": [
         "Surf",
         "Ice Beam",
@@ -1333,12 +1330,12 @@ var SETDEX_SV = {
   },
 
   "Charjabug": {
-    "Kaleb": {
+    "Pokefan Kaleb & Pokefan Isabel": {
       "level": 30,
       "ability": "Battery",
       "nature": "Impish",
       "item": "Eviolite",
-      "index": 82,
+      "index": 81,
       "moves": [
         "Electroweb",
         "Lunge",
@@ -1349,28 +1346,28 @@ var SETDEX_SV = {
   },
 
   "Togedemaru": {
-    "Kaleb": {
+    "Pokefan Kaleb & Pokefan Isabel": {
       "level": 30,
       "ability": "Iron Barbs",
       "nature": "Jolly",
       "item": "Rocky Helmet",
-      "index": 83,
+      "index": 82,
       "moves": [
         "Zing Zap",
         "Iron Head",
-        "Zen Headbutt",
+        "Fake Out",
         "Spiky Shield"
       ]
     }
   },
 
   "Stunfisk": {
-    "Isabel": {
+    "Pokefan Kaleb & Pokefan Isabel": {
       "level": 30,
       "ability": "Static",
       "nature": "Hardy",
       "item": "Rocky Helmet",
-      "index": 84,
+      "index": 83,
       "moves": [
         "Thunderbolt",
         "Earth Power",
@@ -1381,12 +1378,12 @@ var SETDEX_SV = {
   },
 
   "Raichu-Alola": {
-    "Isabel": {
+    "Pokefan Kaleb & Pokefan Isabel": {
       "level": 30,
       "ability": "Surge Surfer",
       "nature": "Modest",
       "item": "Rocky Helmet",
-      "index": 85,
+      "index": 84,
       "moves": [
         "Thunderbolt",
         "Psychic",
@@ -1396,13 +1393,13 @@ var SETDEX_SV = {
     }
   },
 
-  "Eiscue": {
-    "Daisy": {
+  "Eiscue-Ice-Face": {
+    "Aroma Lady Daisy": {
       "level": 30,
       "ability": "Ice Face",
       "nature": "Adamant",
       "item": "Occa Berry",
-      "index": 86,
+      "index": 85,
       "moves": [
         "Ice Spinner",
         "Liquidation",
@@ -1413,12 +1410,12 @@ var SETDEX_SV = {
   },
 
   "Lilligant": {
-    "Daisy": {
+    "Aroma Lady Daisy": {
       "level": 30,
       "ability": "Queenly Majesty",
       "nature": "Modest",
       "item": "Sitrus Berry",
-      "index": 87,
+      "index": 86,
       "moves": [
         "Giga Drain",
         "Extrasensory",
@@ -1429,12 +1426,12 @@ var SETDEX_SV = {
   },
 
   "Mienshao": {
-    "Daisy": {
+    "Aroma Lady Daisy": {
       "level": 30,
       "ability": "Magic Guard",
       "nature": "Hasty",
       "item": "Black Belt",
-      "index": 88,
+      "index": 87,
       "moves": [
         "Aura Sphere",
         "Psyshock",
@@ -1445,12 +1442,12 @@ var SETDEX_SV = {
   },
 
   "Florges": {
-    "Daisy": {
+    "Aroma Lady Daisy": {
       "level": 30,
       "ability": "Symbiosis",
       "nature": "Modest",
       "item": "Leftovers",
-      "index": 89,
+      "index": 88,
       "moves": [
         "Draining Kiss",
         "Giga Drain",
@@ -1461,12 +1458,12 @@ var SETDEX_SV = {
   },
 
   "Noivern": {
-    "Grass Rival Route 110": {
+    "Fire Rival Route 110": {
       "level": 30,
       "ability": "Punk Rock",
       "nature": "Modest",
       "item": "Charti Berry",
-      "index": 90,
+      "index": 89,
       "moves": [
         "Air Slash",
         "Dragon Pulse",
@@ -1474,12 +1471,12 @@ var SETDEX_SV = {
         "U-turn"
       ]
     },
-    "Fire Rival Route 110": {
+    "Grass Rival Route 110": {
       "level": 30,
       "ability": "Punk Rock",
       "nature": "Modest",
       "item": "Charti Berry",
-      "index": 96,
+      "index": 95,
       "moves": [
         "Air Slash",
         "Dragon Pulse",
@@ -1492,7 +1489,7 @@ var SETDEX_SV = {
       "ability": "Punk Rock",
       "nature": "Modest",
       "item": "Charti Berry",
-      "index": 102,
+      "index": 101,
       "moves": [
         "Air Slash",
         "Dragon Pulse",
@@ -1503,12 +1500,12 @@ var SETDEX_SV = {
   },
 
   "Bisharp": {
-    "Grass Rival Route 110": {
+    "Fire Rival Route 110": {
       "level": 30,
       "ability": "Defiant",
       "nature": "Jolly",
       "item": "Black Glasses",
-      "index": 91,
+      "index": 90,
       "moves": [
         "Night Slash",
         "Iron Head",
@@ -1516,12 +1513,12 @@ var SETDEX_SV = {
         "Swords Dance"
       ]
     },
-    "Fire Rival Route 110": {
+    "Grass Rival Route 110": {
       "level": 30,
       "ability": "Defiant",
       "nature": "Jolly",
       "item": "Black Glasses",
-      "index": 97,
+      "index": 96,
       "moves": [
         "Night Slash",
         "Iron Head",
@@ -1534,7 +1531,7 @@ var SETDEX_SV = {
       "ability": "Defiant",
       "nature": "Jolly",
       "item": "Black Glasses",
-      "index": 103,
+      "index": 102,
       "moves": [
         "Night Slash",
         "Iron Head",
@@ -1545,12 +1542,12 @@ var SETDEX_SV = {
   },
 
   "Emolga": {
-    "Grass Rival Route 110": {
+    "Fire Rival Route 110": {
       "level": 31,
       "ability": "Static",
       "nature": "Timid",
       "item": "Expert Belt",
-      "index": 92,
+      "index": 91,
       "moves": [
         "Thunderbolt",
         "Air Slash",
@@ -1558,12 +1555,12 @@ var SETDEX_SV = {
         "Volt Switch"
       ]
     },
-    "Fire Rival Route 110": {
+    "Grass Rival Route 110": {
       "level": 31,
       "ability": "Static",
       "nature": "Timid",
       "item": "Expert Belt",
-      "index": 98,
+      "index": 97,
       "moves": [
         "Thunderbolt",
         "Air Slash",
@@ -1576,70 +1573,12 @@ var SETDEX_SV = {
       "ability": "Static",
       "nature": "Timid",
       "item": "Expert Belt",
-      "index": 104,
+      "index": 103,
       "moves": [
         "Thunderbolt",
         "Air Slash",
         "Energy Ball",
         "Volt Switch"
-      ]
-    }
-  },
-
-  "Talonflame": {
-    "Grass Rival Route 110": {
-      "level": 31,
-      "ability": "Flame Body",
-      "nature": "Adamant",
-      "item": "Focus Sash",
-      "index": 93,
-      "moves": [
-        "Temper Flare",
-        "Dual Wingbeat",
-        "Steel Wing",
-        "U-turn"
-      ]
-    },
-    "Water Rival Route 110": {
-      "level": 31,
-      "ability": "Flame Body",
-      "nature": "Adamant",
-      "item": "Focus Sash",
-      "index": 105,
-      "moves": [
-        "Temper Flare",
-        "Dual Wingbeat",
-        "Steel Wing",
-        "U-turn"
-      ]
-    }
-  },
-
-  "Seismitoad": {
-    "Grass Rival Route 110": {
-      "level": 31,
-      "ability": "Poison Touch",
-      "nature": "Mild",
-      "item": "Rindo Berry",
-      "index": 94,
-      "moves": [
-        "Muddy Water",
-        "Earth Power",
-        "Ice Punch",
-        "Acid Spray"
-      ]
-    },
-    "Fire Rival Route 110": {
-      "level": 31,
-      "ability": "Poison Touch",
-      "nature": "Mild",
-      "item": "Rindo Berry",
-      "index": 100,
-      "moves": [
-        "Muddy Water",
-        "Earth Power",
-        "Ice Punch",
-        "Acid Spray"
       ]
     }
   },
@@ -1650,7 +1589,7 @@ var SETDEX_SV = {
       "ability": "Harvest",
       "nature": "Modest",
       "item": "Sitrus Berry",
-      "index": 99,
+      "index": 92,
       "moves": [
         "Giga Drain",
         "Hyper Voice",
@@ -1663,7 +1602,7 @@ var SETDEX_SV = {
       "ability": "Harvest",
       "nature": "Modest",
       "item": "Sitrus Berry",
-      "index": 106,
+      "index": 105,
       "moves": [
         "Giga Drain",
         "Hyper Voice",
@@ -1673,13 +1612,71 @@ var SETDEX_SV = {
     }
   },
 
+  "Seismitoad": {
+    "Fire Rival Route 110": {
+      "level": 31,
+      "ability": "Poison Touch",
+      "nature": "Mild",
+      "item": "Rindo Berry",
+      "index": 93,
+      "moves": [
+        "Muddy Water",
+        "Earth Power",
+        "Ice Punch",
+        "Acid Spray"
+      ]
+    },
+    "Grass Rival Route 110": {
+      "level": 31,
+      "ability": "Poison Touch",
+      "nature": "Mild",
+      "item": "Rindo Berry",
+      "index": 99,
+      "moves": [
+        "Muddy Water",
+        "Earth Power",
+        "Ice Punch",
+        "Acid Spray"
+      ]
+    }
+  },
+
+  "Talonflame": {
+    "Grass Rival Route 110": {
+      "level": 31,
+      "ability": "Flame Body",
+      "nature": "Adamant",
+      "item": "Focus Sash",
+      "index": 98,
+      "moves": [
+        "Temper Flare",
+        "Dual Wingbeat",
+        "Steel Wing",
+        "U-turn"
+      ]
+    },
+    "Water Rival Route 110": {
+      "level": 31,
+      "ability": "Flame Body",
+      "nature": "Adamant",
+      "item": "Focus Sash",
+      "index": 104,
+      "moves": [
+        "Temper Flare",
+        "Dual Wingbeat",
+        "Steel Wing",
+        "U-turn"
+      ]
+    }
+  },
+
   "Ursaring": {
-    "Whitney": {
+    "Johto Leader Whitney": {
       "level": 31,
       "ability": "Guts",
       "nature": "Adamant",
       "item": "Silk Scarf",
-      "index": 108,
+      "index": 107,
       "moves": [
         "Facade",
         "High Horsepower",
@@ -1690,12 +1687,12 @@ var SETDEX_SV = {
   },
 
   "Clefable": {
-    "Whitney": {
+    "Johto Leader Whitney": {
       "level": 31,
       "ability": "Magic Guard",
       "nature": "Modest",
       "item": "Life Orb",
-      "index": 109,
+      "index": 108,
       "moves": [
         "Draining Kiss",
         "Flamethrower",
@@ -1706,12 +1703,12 @@ var SETDEX_SV = {
   },
 
   "Furret": {
-    "Whitney": {
+    "Johto Leader Whitney": {
       "level": 31,
       "ability": "Frisk",
       "nature": "Jolly",
       "item": "Normal Gem",
-      "index": 110,
+      "index": 109,
       "moves": [
         "Body Slam",
         "Seed Bomb",
@@ -1722,12 +1719,12 @@ var SETDEX_SV = {
   },
 
   "Farigiraf": {
-    "Whitney": {
+    "Johto Leader Whitney": {
       "level": 31,
       "ability": "Cud Chew",
       "nature": "Modest",
       "item": "Sitrus Berry",
-      "index": 111,
+      "index": 110,
       "moves": [
         "Hyper Voice",
         "Twin Beam",
@@ -1738,12 +1735,12 @@ var SETDEX_SV = {
   },
 
   "Miltank": {
-    "Whitney": {
+    "Johto Leader Whitney": {
       "level": 32,
       "ability": "Scrappy",
       "nature": "Adamant",
       "item": "Leftovers",
-      "index": 112,
+      "index": 111,
       "moves": [
         "Body Slam",
         "High Horsepower",
@@ -1759,7 +1756,7 @@ var SETDEX_SV = {
       "ability": "Flame Body",
       "nature": "Bold",
       "item": "Eviolite",
-      "index": 113,
+      "index": 112,
       "moves": [
         "Fire Spin",
         "Night Shade",
@@ -1770,12 +1767,12 @@ var SETDEX_SV = {
   },
 
   "Flapple": {
-    "Tyrone": {
+    "Camper Tyrone & Aroma Lady Celina": {
       "level": 30,
       "ability": "Ripen",
       "nature": "Jolly",
       "item": "Sitrus Berry",
-      "index": 114,
+      "index": 113,
       "moves": [
         "Grav Apple",
         "Breaking Swipe",
@@ -1786,28 +1783,41 @@ var SETDEX_SV = {
   },
 
   "Sandaconda": {
-    "Tyrone": {
+    "Camper Tyrone & Aroma Lady Celina": {
       "level": 30,
       "ability": "Shed Skin",
       "nature": "Careful",
       "item": "Leftovers",
-      "index": 115,
+      "index": 114,
       "moves": [
         "High Horsepower",
         "Rock Slide",
         "Coil",
         "Rest"
       ]
+    },
+    "Magma Admin Tabitha Mt. Chimney": {
+      "level": 35,
+      "ability": "Sand Spit",
+      "nature": "Careful",
+      "item": "Assault Vest",
+      "index": 174,
+      "moves": [
+        "Earthquake",
+        "Body Press",
+        "Fire Fang",
+        "Stone Edge"
+      ]
     }
   },
 
   "Appletun": {
-    "Celina": {
+    "Camper Tyrone & Aroma Lady Celina": {
       "level": 30,
       "ability": "Ripen",
       "nature": "Bold",
       "item": "Sitrus Berry",
-      "index": 116,
+      "index": 115,
       "moves": [
         "Apple Acid",
         "Dragon Breath",
@@ -1818,12 +1828,12 @@ var SETDEX_SV = {
   },
 
   "Mr. Mime-Galar": {
-    "Celina": {
+    "Camper Tyrone & Aroma Lady Celina": {
       "level": 30,
       "ability": "Ice Body",
       "nature": "Modest",
       "item": "Eviolite",
-      "index": 117,
+      "index": 116,
       "moves": [
         "Freeze-Dry",
         "Psyshock",
@@ -1833,45 +1843,58 @@ var SETDEX_SV = {
     }
   },
 
-  "Maushold": {
-    "Victor": {
+  "Ribombee": {
+    "Winstrate Victor": {
       "level": 30,
-      "ability": "Technician",
-      "nature": "Jolly",
-      "item": "Wide Lens",
-      "index": 118,
+      "ability": "Shield Dust",
+      "nature": "Timid",
+      "item": "Focus Sash",
+      "index": 117,
       "moves": [
-        "Population Bomb",
-        "Bite",
-        "Super Fang",
-        "Tidy Up"
+        "Bug Buzz",
+        "Dazzling Gleam",
+        "Energy Ball",
+        "Quiver Dance"
       ]
     }
   },
 
-  "Scolipede": {
-    "Victor": {
+  "Hawlucha": {
+    "Winstrate Victor": {
       "level": 30,
-      "ability": "Speed Boost",
+      "ability": "Unburden",
       "nature": "Jolly",
-      "item": "Black Sludge",
-      "index": 119,
+      "item": "Payapa Berry",
+      "index": 118,
       "moves": [
-        "X Scissor",
+        "Flying Press",
+        "Throat Chop",
         "Poison Jab",
-        "Stomping Tantrum",
-        "Swords Dance"
+        "Power Up Punch"
+      ]
+    },
+    "Battle Girl Vivian & Guitarist Kirk": {
+      "level": 31,
+      "ability": "Unburden",
+      "nature": "Naughty",
+      "item": "Electric Seed",
+      "index": 126,
+      "moves": [
+        "Brick Break",
+        "Acrobatics",
+        "Rock Slide",
+        "Roost"
       ]
     }
   },
 
   "Druddigon": {
-    "Victoria": {
+    "Winstrate Victoria": {
       "level": 30,
       "ability": "Rough Skin",
       "nature": "Adamant",
       "item": "Rocky Helmet",
-      "index": 120,
+      "index": 119,
       "moves": [
         "Dragon Claw",
         "Stomping Tantrum",
@@ -1881,29 +1904,29 @@ var SETDEX_SV = {
     }
   },
 
-  "Haxorus": {
-    "Victoria": {
+  "Tsareena": {
+    "Winstrate Victoria": {
       "level": 30,
-      "ability": "Mold Breaker",
-      "nature": "Adamant",
-      "item": "Focus Sash",
-      "index": 121,
+      "ability": "Queenly Majesty",
+      "nature": "Jolly",
+      "item": "Expert Belt",
+      "index": 120,
       "moves": [
-        "Dragon Claw",
-        "Iron Head",
-        "Brick Break",
-        "Dragon Dance"
+        "Trop Kick",
+        "Low Kick",
+        "Triple Axel",
+        "Trailblaze"
       ]
     }
   },
 
   "Musharna": {
-    "Vivi": {
+    "Winstrate Vivi": {
       "level": 30,
       "ability": "Bad Dreams",
       "nature": "Quiet",
       "item": "Leftovers",
-      "index": 122,
+      "index": 121,
       "moves": [
         "Psychic",
         "Dazzling Gleam",
@@ -1913,45 +1936,29 @@ var SETDEX_SV = {
     }
   },
 
-  "Cetitan": {
-    "Vivi": {
+  "Dudunsparce": {
+    "Winstrate Vivi": {
       "level": 30,
-      "ability": "Thick Fat",
+      "ability": "Serene Grace",
       "nature": "Brave",
       "item": "Sitrus Berry",
-      "index": 123,
+      "index": 122,
       "moves": [
-        "Ice Spinner",
-        "Liquidation",
-        "High Horsepower",
-        "Ice Shard"
-      ]
-    }
-  },
-
-  "Reuniclus": {
-    "Vicky": {
-      "level": 30,
-      "ability": "Magic Guard",
-      "nature": "Modest",
-      "item": "Life Orb",
-      "index": 124,
-      "moves": [
-        "Psyshock",
-        "Aura Sphere",
-        "Energy Ball",
-        "Calm Mind"
+        "Headbutt",
+        "Zen Headbutt",
+        "Rock Slide",
+        "Coil"
       ]
     }
   },
 
   "Vanilluxe": {
-    "Vicky": {
+    "Winstrate Vicky": {
       "level": 30,
       "ability": "Ice Body",
       "nature": "Modest",
       "item": "Focus Sash",
-      "index": 125,
+      "index": 123,
       "moves": [
         "Ice Beam",
         "Flash Cannon",
@@ -1962,12 +1969,12 @@ var SETDEX_SV = {
   },
 
   "Polteageist": {
-    "Vicky": {
-      "level": 31,
+    "Winstrate Vicky": {
+      "level": 32,
       "ability": "Weak Armor",
       "nature": "Modest",
       "item": "White Herb",
-      "index": 126,
+      "index": 124,
       "moves": [
         "Shadow Ball",
         "Stored Power",
@@ -1977,13 +1984,13 @@ var SETDEX_SV = {
     }
   },
 
-  "Sirfetch’d": {
-    "Vivian": {
+  "Sirfetch'd": {
+    "Battle Girl Vivian & Guitarist Kirk": {
       "level": 31,
       "ability": "Sharpness",
       "nature": "Adamant",
       "item": "Leek",
-      "index": 127,
+      "index": 125,
       "moves": [
         "Brick Break",
         "Dual Wingbeat",
@@ -1993,29 +2000,13 @@ var SETDEX_SV = {
     }
   },
 
-  "Hawlucha": {
-    "Vivian": {
-      "level": 31,
-      "ability": "Unburden",
-      "nature": "Naughty",
-      "item": "Electric Seed",
-      "index": 128,
-      "moves": [
-        "Brick Break",
-        "Acrobatics",
-        "Rock Slide",
-        "Roost"
-      ]
-    }
-  },
-
   "Pincurchin": {
-    "Kirk": {
+    "Battle Girl Vivian & Guitarist Kirk": {
       "level": 31,
       "ability": "Electric Surge",
       "nature": "Adamant",
       "item": "Life Orb",
-      "index": 129,
+      "index": 127,
       "moves": [
         "Zing Zap",
         "Liquidation",
@@ -2026,12 +2017,12 @@ var SETDEX_SV = {
   },
 
   "Toxtricity-Low-Key": {
-    "Kirk": {
+    "Battle Girl Vivian & Guitarist Kirk": {
       "level": 31,
       "ability": "Punk Rock",
       "nature": "Modest",
       "item": "Throat Spray",
-      "index": 130,
+      "index": 128,
       "moves": [
         "Overdrive",
         "Sludge Bomb",
@@ -2042,12 +2033,12 @@ var SETDEX_SV = {
   },
 
   "Meowstic-F": {
-    "Ben": {
+    "Cooltrainer Ben": {
       "level": 31,
       "ability": "Competitive",
       "nature": "Modest",
       "item": "Colbur Berry",
-      "index": 131,
+      "index": 129,
       "moves": [
         "Psyshock",
         "Thunderbolt",
@@ -2058,12 +2049,12 @@ var SETDEX_SV = {
   },
 
   "Diggersby": {
-    "Ben": {
+    "Cooltrainer Ben": {
       "level": 31,
       "ability": "Huge Power",
       "nature": "Adamant",
       "item": "Aguav Berry",
-      "index": 132,
+      "index": 130,
       "moves": [
         "Body Slam",
         "Stomping Tantrum",
@@ -2074,12 +2065,12 @@ var SETDEX_SV = {
   },
 
   "Hakamo-o": {
-    "Ben": {
+    "Cooltrainer Ben": {
       "level": 31,
       "ability": "Bulletproof",
       "nature": "Jolly",
       "item": "Eviolite",
-      "index": 133,
+      "index": 131,
       "moves": [
         "Dragon Claw",
         "Drain Punch",
@@ -2090,12 +2081,12 @@ var SETDEX_SV = {
   },
 
   "Slowbro-Galar": {
-    "Ben": {
+    "Cooltrainer Ben": {
       "level": 31,
       "ability": "Quick Draw",
       "nature": "Quiet",
       "item": "Quick Claw",
-      "index": 134,
+      "index": 132,
       "moves": [
         "Shell Side Arm",
         "Psychic",
@@ -2106,12 +2097,12 @@ var SETDEX_SV = {
   },
 
   "Galvantula": {
-    "Angelo": {
+    "Bug Maniac Angelo & Guitarist Shawn": {
       "level": 31,
       "ability": "Unnerve",
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 135,
+      "index": 133,
       "moves": [
         "Electro Ball",
         "Bug Buzz",
@@ -2122,12 +2113,12 @@ var SETDEX_SV = {
   },
 
   "Vikavolt": {
-    "Angelo": {
+    "Bug Maniac Angelo & Guitarist Shawn": {
       "level": 31,
       "ability": "Levitate",
       "nature": "Modest",
       "item": "Charti Berry",
-      "index": 136,
+      "index": 134,
       "moves": [
         "Bug Buzz",
         "Thunderbolt",
@@ -2138,12 +2129,12 @@ var SETDEX_SV = {
   },
 
   "Bellibolt": {
-    "Shawn": {
+    "Bug Maniac Angelo & Guitarist Shawn": {
       "level": 31,
       "ability": "Electromorphosis",
       "nature": "Modest",
       "item": "Assault Vest",
-      "index": 137,
+      "index": 135,
       "moves": [
         "Thunderbolt",
         "Muddy Water",
@@ -2154,12 +2145,12 @@ var SETDEX_SV = {
   },
 
   "Electrode-Hisui": {
-    "Shawn": {
+    "Bug Maniac Angelo & Guitarist Shawn": {
       "level": 31,
       "ability": "Soundproof",
       "nature": "Modest",
       "item": "Expert Belt",
-      "index": 138,
+      "index": 136,
       "moves": [
         "Thunderbolt",
         "Energy Ball",
@@ -2170,12 +2161,12 @@ var SETDEX_SV = {
   },
 
   "Kilowattrel": {
-    "Wattson": {
+    "Leader Wattson": {
       "level": 31,
       "ability": "Competitive",
       "nature": "Modest",
       "item": "Focus Sash",
-      "index": 139,
+      "index": 137,
       "moves": [
         "Discharge",
         "Air Slash",
@@ -2186,12 +2177,12 @@ var SETDEX_SV = {
   },
 
   "Morpeko": {
-    "Wattson": {
+    "Leader Wattson": {
       "level": 31,
       "ability": "Hunger Switch",
       "nature": "Adamant",
       "item": "Shuca Berry",
-      "index": 140,
+      "index": 138,
       "moves": [
         "Aura Wheel",
         "Seed Bomb",
@@ -2202,12 +2193,12 @@ var SETDEX_SV = {
   },
 
   "Heliolisk": {
-    "Wattson": {
+    "Leader Wattson": {
       "level": 31,
       "ability": "Soundproof",
       "nature": "Modest",
       "item": "Expert Belt",
-      "index": 141,
+      "index": 139,
       "moves": [
         "Thunderbolt",
         "Hyper Voice",
@@ -2218,33 +2209,686 @@ var SETDEX_SV = {
   },
 
   "Eelektross": {
-    "Wattson": {
+    "Leader Wattson": {
       "level": 31,
       "ability": "Levitate",
-      "nature": "Adamant",
+      "nature": "Quiet",
       "item": "Leftovers",
-      "index": 142,
+      "index": 140,
       "moves": [
-        "Wild Charge",
-        "Liquidation",
-        "Stomping Tantrum",
-        "Coil"
+        "Discharge",
+        "Flamethrower",
+        "Drain Punch",
+        "Volt Switch"
       ]
     }
   },
 
   "Pawmot": {
-    "Wattson": {
+    "Leader Wattson": {
       "level": 32,
       "ability": "Iron Fist",
       "nature": "Adamant",
       "item": "Punching Glove",
-      "index": 143,
+      "index": 141,
       "moves": [
         "Thunder Punch",
         "Force Palm",
         "Ice Punch",
         "Revival Blessing"
+      ]
+    }
+  },
+
+  "Greedent": {
+    "Arven": {
+      "level": 35,
+      "ability": "Fluffy",
+      "nature": "Adamant",
+      "item": "Leftovers",
+      "index": 142,
+      "moves": [
+        "Body Slam",
+        "High Horsepower",
+        "Psychic Fangs",
+        "Swords Dance"
+      ]
+    }
+  },
+
+  "Cloyster": {
+    "Arven": {
+      "level": 35,
+      "ability": "Skill Link",
+      "nature": "Naughty",
+      "item": "Focus Sash",
+      "index": 143,
+      "moves": [
+        "Hydro Pump",
+        "Icicle Spear",
+        "Rock Blast",
+        "Shell Smash"
+      ]
+    }
+  },
+
+  "Toedscruel": {
+    "Arven": {
+      "level": 35,
+      "ability": "Mycelium Might",
+      "nature": "Bold",
+      "item": "Mental Herb",
+      "index": 145,
+      "moves": [
+        "Earth Power",
+        "Giga Drain",
+        "Foul Play",
+        "Spore"
+      ]
+    }
+  },
+
+  "Garganacl": {
+    "Arven": {
+      "level": 35,
+      "ability": "Purifying Salt",
+      "nature": "Impish",
+      "item": "Assault Vest",
+      "index": 146,
+      "moves": [
+        "Salt Cure",
+        "Body Press",
+        "Fire Punch",
+        "Explosion"
+      ]
+    }
+  },
+
+  "Mabosstiff": {
+    "Arven": {
+      "level": 36,
+      "ability": "Intimidate",
+      "nature": "Jolly",
+      "item": "Life Orb",
+      "index": 147,
+      "moves": [
+        "Crunch",
+        "Play Rough",
+        "Fire Fang",
+        "Hone Claws"
+      ]
+    }
+  },
+
+  "Froslass": {
+    "Alola Elite Four Acerola": {
+      "level": 35,
+      "ability": "Cursed Body",
+      "nature": "Timid",
+      "item": "Focus Sash",
+      "index": 148,
+      "moves": [
+        "Ice Beam",
+        "Shadow Ball",
+        "Freeze-Dry",
+        "Spikes"
+      ]
+    }
+  },
+
+  "Drifblim": {
+    "Alola Elite Four Acerola": {
+      "level": 35,
+      "ability": "Flare Boost",
+      "nature": "Modest",
+      "item": "Flame Orb",
+      "index": 149,
+      "moves": [
+        "Shadow Ball",
+        "Air Slash",
+        "Hypnosis",
+        "Strength Sap"
+      ]
+    }
+  },
+
+  "Dhelmise": {
+    "Alola Elite Four Acerola": {
+      "level": 35,
+      "ability": "Steelworker",
+      "nature": "Adamant",
+      "item": "Leftovers",
+      "index": 150,
+      "moves": [
+        "Power Whip",
+        "Shadow Claw",
+        "Anchor Shot",
+        "Earthquake"
+      ]
+    }
+  },
+
+  "Banette": {
+    "Alola Elite Four Acerola": {
+      "level": 36,
+      "ability": "Insomnia",
+      "nature": "Adamant",
+      "item": "Banettite",
+      "index": 151,
+      "moves": [
+        "Shadow Claw",
+        "Gunk Shot",
+        "Skitter Smack",
+        "Destiny Bond"
+      ]
+    }
+  },
+
+  "Mimikyu": {
+    "Alola Elite Four Acerola": {
+      "level": 35,
+      "ability": "Disguise",
+      "nature": "Jolly",
+      "item": "Mimikium Z",
+      "index": 152,
+      "moves": [
+        "Shadow Claw",
+        "Play Rough",
+        "Drain Punch",
+        "Swords Dance"
+      ]
+    }
+  },
+
+  "Palossand": {
+    "Alola Elite Four Acerola": {
+      "level": 36,
+      "ability": "Water Compaction",
+      "nature": "Calm",
+      "item": "Passho Berry",
+      "index": 153,
+      "moves": [
+        "Shadow Ball",
+        "Earth Power",
+        "Sludge Bomb",
+        "Shore Up"
+      ]
+    },
+    "Rich Boy Kai & Picknicker Kanna": {
+      "level": 34,
+      "ability": "Water Compaction",
+      "nature": "Bold",
+      "item": "Weakness Policy",
+      "index": 162,
+      "moves": [
+        "Shadow Ball",
+        "Earth Power",
+        "Giga Drain",
+        "Hypnosis"
+      ]
+    }
+  },
+
+  "Swampert": {
+    "Rika Fallarbor Town": {
+      "level": 35,
+      "ability": "Torrent",
+      "nature": "Adamant",
+      "item": "Rindo Berry",
+      "index": 154,
+      "moves": [
+        "Liquidation",
+        "Earthquake",
+        "Ice Punch",
+        "Stealth Rock"
+      ]
+    }
+  },
+
+  "Golurk": {
+    "Rika Fallarbor Town": {
+      "level": 35,
+      "ability": "No Guard",
+      "nature": "Adamant",
+      "item": "Assault Vest",
+      "index": 155,
+      "moves": [
+        "Earthquake",
+        "Shadow Punch",
+        "Dynamic Punch",
+        "Stone Edge"
+      ]
+    }
+  },
+
+  "Gliscor": {
+    "Rika Fallarbor Town": {
+      "level": 35,
+      "ability": "Poison Heal",
+      "nature": "Jolly",
+      "item": "Toxic Orb",
+      "index": 156,
+      "moves": [
+        "Earthquake",
+        "Dual Wingbeat",
+        "Sky Uppercut",
+        "Swords Dance"
+      ]
+    }
+  },
+
+  "Donphan": {
+    "Rika Fallarbor Town": {
+      "level": 35,
+      "ability": "Sturdy",
+      "nature": "Jolly",
+      "item": "Custap Berry",
+      "index": 157,
+      "moves": [
+        "Earthquake",
+        "Gunk Shot",
+        "Stone Edge",
+        "Trailblaze"
+      ]
+    }
+  },
+
+  "Flygon": {
+    "Rika Fallarbor Town": {
+      "level": 35,
+      "ability": "Levitate",
+      "nature": "Adamant",
+      "item": "Yache Berry",
+      "index": 158,
+      "moves": [
+        "Earthquake",
+        "Dragon Claw",
+        "Rock Slide",
+        "Dragon Dance"
+      ]
+    }
+  },
+
+  "Clodsire": {
+    "Rika Fallarbor Town": {
+      "level": 36,
+      "ability": "Water Absorb",
+      "nature": "Impish",
+      "item": "Black Sludge",
+      "index": 159,
+      "moves": [
+        "Poison Jab",
+        "Earthquake",
+        "Toxic",
+        "Recover"
+      ]
+    }
+  },
+
+  "Alcremie": {
+    "Rich Boy Kai & Picknicker Kanna": {
+      "level": 34,
+      "ability": "Sweet Veil",
+      "nature": "Modest",
+      "item": "Sitrus Berry",
+      "index": 160,
+      "moves": [
+        "Dazzling Gleam",
+        "Psychic",
+        "Mystical Fire",
+        "Decorate"
+      ]
+    }
+  },
+
+  "Sinistcha": {
+    "Rich Boy Kai & Picknicker Kanna": {
+      "level": 34,
+      "ability": "Hospitality",
+      "nature": "Modest",
+      "item": "Rocky Helmet",
+      "index": 161,
+      "moves": [
+        "Matcha Gotcha",
+        "Shadow Ball",
+        "Strength Sap",
+        "Calm Mind"
+      ]
+    }
+  },
+
+  "Sylveon": {
+    "Rich Boy Kai & Picknicker Kanna": {
+      "level": 34,
+      "ability": "Cute Charm",
+      "nature": "Modest",
+      "item": "Sitrus Berry",
+      "index": 163,
+      "moves": [
+        "Draining Kiss",
+        "Mystical Fire",
+        "Shadow Ball",
+        "Helping Hand"
+      ]
+    }
+  },
+
+  "Cradily": {
+    "Sinnoh Leader Roark": {
+      "level": 35,
+      "ability": "Storm Drain",
+      "nature": "Bold",
+      "item": "Leftovers",
+      "index": 164,
+      "moves": [
+        "Power Gem",
+        "Giga Drain",
+        "Earth Power",
+        "Stealth Rock"
+      ]
+    }
+  },
+
+  "Lunatone": {
+    "Sinnoh Leader Roark": {
+      "level": 35,
+      "ability": "Levitate",
+      "nature": "Modest",
+      "item": "Power Herb",
+      "index": 165,
+      "moves": [
+        "Power Gem",
+        "Psychic",
+        "Moonblast",
+        "Meteor Beam"
+      ]
+    }
+  },
+
+  "Aggron": {
+    "Sinnoh Leader Roark": {
+      "level": 35,
+      "ability": "Rock Head",
+      "nature": "Adamant",
+      "item": "Air Balloon",
+      "index": 166,
+      "moves": [
+        "Heavy Slam",
+        "Head Smash",
+        "Body Press",
+        "Dragon Tail"
+      ]
+    }
+  },
+
+  "Armaldo": {
+    "Sinnoh Leader Roark": {
+      "level": 35,
+      "ability": "Battle Armor",
+      "nature": "Adamant",
+      "item": "Silver Powder",
+      "index": 167,
+      "moves": [
+        "Stone Edge",
+        "First Impression",
+        "Superpower",
+        "Liquidation"
+      ]
+    }
+  },
+
+  "Aerodactyl": {
+    "Sinnoh Leader Roark": {
+      "level": 36,
+      "ability": "Rock Head",
+      "nature": "Adamant",
+      "item": "Aerodactylite",
+      "index": 168,
+      "moves": [
+        "Rock Slide",
+        "Dual Wingbeat",
+        "Earthquake",
+        "Ice Fang"
+      ]
+    }
+  },
+
+  "Rampardos": {
+    "Sinnoh Leader Roark": {
+      "level": 36,
+      "ability": "Sheer Force",
+      "nature": "Adamant",
+      "item": "Life Orb",
+      "index": 169,
+      "moves": [
+        "Rock Slide",
+        "Zen Headbutt",
+        "Fire Punch",
+        "Crunch"
+      ]
+    }
+  },
+
+  "Meowstic": {
+    "Magma Grunt 1 Mt. Chimney & Magma Grunt 2 Mt. Chimney": {
+      "level": 35,
+      "ability": "Prankster",
+      "nature": "Timid",
+      "item": "Covert Cloak",
+      "index": 170,
+      "moves": [
+        "Psychic",
+        "Mystical Fire",
+        "Gravity",
+        "Helping Hand"
+      ]
+    }
+  },
+
+  "Reuniclus": {
+    "Magma Grunt 1 Mt. Chimney & Magma Grunt 2 Mt. Chimney": {
+      "level": 35,
+      "ability": "Magic Guard",
+      "nature": "Modest",
+      "item": "Life Orb",
+      "index": 171,
+      "moves": [
+        "Psychic",
+        "Focus Blast",
+        "Recover",
+        "Gravity"
+      ]
+    }
+  },
+
+  "Squawkabilly": {
+    "Magma Grunt 1 Mt. Chimney & Magma Grunt 2 Mt. Chimney": {
+      "level": 35,
+      "ability": "Hustle",
+      "nature": "Jolly",
+      "item": "Life Orb",
+      "index": 172,
+      "moves": [
+        "Double-Edge",
+        "Brave Bird",
+        "Reversal",
+        "Quick Attack"
+      ]
+    }
+  },
+
+  "Dracozolt": {
+    "Magma Grunt 1 Mt. Chimney & Magma Grunt 2 Mt. Chimney": {
+      "level": 35,
+      "ability": "Hustle",
+      "nature": "Jolly",
+      "item": "Expert Belt",
+      "index": 173,
+      "moves": [
+        "Bolt Beak",
+        "Dragon Rush",
+        "High Horsepower",
+        "Iron Tail"
+      ]
+    }
+  },
+
+  "Stoutland": {
+    "Magma Admin Tabitha Mt. Chimney": {
+      "level": 35,
+      "ability": "Sand Rush",
+      "nature": "Adamant",
+      "item": "Expert Belt",
+      "index": 175,
+      "moves": [
+        "Retaliate",
+        "Play Rough",
+        "Wild Charge",
+        "Howl"
+      ]
+    }
+  },
+
+  "Orthworm": {
+    "Magma Admin Tabitha Mt. Chimney": {
+      "level": 35,
+      "ability": "Sand Force",
+      "nature": "Impish",
+      "item": "Sitrus Berry",
+      "index": 176,
+      "moves": [
+        "Iron Tail",
+        "Body Press",
+        "Rock Slide",
+        "Shed Tail"
+      ]
+    }
+  },
+
+  "Krookodile": {
+    "Magma Admin Tabitha Mt. Chimney": {
+      "level": 35,
+      "ability": "Moxie",
+      "nature": "Jolly",
+      "item": "Life Orb",
+      "index": 177,
+      "moves": [
+        "Earthquake",
+        "Crunch",
+        "Gunk Shot",
+        "Hone Claws"
+      ]
+    }
+  },
+
+  "Excadrill": {
+    "Magma Admin Tabitha Mt. Chimney": {
+      "level": 36,
+      "ability": "Sand Rush",
+      "nature": "Adamant",
+      "item": "Focus Sash",
+      "index": 178,
+      "moves": [
+        "Earthquake",
+        "Iron Head",
+        "Rock Slide",
+        "Swords Dance"
+      ]
+    }
+  },
+
+  "Runerigus": {
+    "Magma Leader Maxie Mt. Chimney": {
+      "level": 35,
+      "ability": "Wandering Spirit",
+      "nature": "Careful",
+      "item": "Passho Berry",
+      "index": 179,
+      "moves": [
+        "Earthquake",
+        "Stone Edge",
+        "Will-O-Wisp",
+        "Stealth Rock"
+      ]
+    }
+  },
+
+  "Cyclizar": {
+    "Magma Leader Maxie Mt. Chimney": {
+      "level": 35,
+      "ability": "Regenerator",
+      "nature": "Jolly",
+      "item": "Expert Belt",
+      "index": 180,
+      "moves": [
+        "Dragon Rush",
+        "Body Slam",
+        "Temper Flare",
+        "Shed Tail"
+      ]
+    }
+  },
+
+  "Chandelure": {
+    "Magma Leader Maxie Mt. Chimney": {
+      "level": 35,
+      "ability": "Infiltrator",
+      "nature": "Modest",
+      "item": "Wise Glasses",
+      "index": 181,
+      "moves": [
+        "Shadow Ball",
+        "Flamethrower",
+        "Energy Ball",
+        "Acid Armor"
+      ]
+    }
+  },
+
+  "Conkeldurr": {
+    "Magma Leader Maxie Mt. Chimney": {
+      "level": 35,
+      "ability": "Iron Fist",
+      "nature": "Adamant",
+      "item": "Assault Vest",
+      "index": 182,
+      "moves": [
+        "Hammer Arm",
+        "Ice Punch",
+        "Knock Off",
+        "Power Up Punch"
+      ]
+    }
+  },
+
+  "Durant": {
+    "Magma Leader Maxie Mt. Chimney": {
+      "level": 34,
+      "ability": "Hustle",
+      "nature": "Jolly",
+      "item": "Life Orb",
+      "index": 183,
+      "moves": [
+        "X-Scissor",
+        "Iron Head",
+        "Rock Slide",
+        "Hone Claws"
+      ]
+    }
+  },
+
+  "Heatmor": {
+    "Magma Leader Maxie Mt. Chimney": {
+      "level": 36,
+      "ability": "White Smoke",
+      "nature": "Jolly",
+      "item": "Focus Sash",
+      "index": 184,
+      "moves": [
+        "Fire Lash",
+        "Stomping Tantrum",
+        "Thunder Punch",
+        "Power Up Punch"
       ]
     }
   },
