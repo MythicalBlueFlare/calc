@@ -2670,7 +2670,7 @@ var SETDEX_SV = {
   },
 
   "Meowstic": {
-    "Magma Grunt 1 Mt. Chimney & Magma Grunt 2 Mt. Chimney": {
+    "Magma Grunt 1 MtChim & Magma Grunt 2 MtChim": {
       "level": 35,
       "ability": "Prankster",
       "nature": "Timid",
@@ -2686,7 +2686,7 @@ var SETDEX_SV = {
   },
 
   "Reuniclus": {
-    "Magma Grunt 1 Mt. Chimney & Magma Grunt 2 Mt. Chimney": {
+    "Magma Grunt 1 MtChim & Magma Grunt 2 MtChim": {
       "level": 35,
       "ability": "Magic Guard",
       "nature": "Modest",
@@ -2702,7 +2702,7 @@ var SETDEX_SV = {
   },
 
   "Squawkabilly": {
-    "Magma Grunt 1 Mt. Chimney & Magma Grunt 2 Mt. Chimney": {
+    "Magma Grunt 1 MtChim & Magma Grunt 2 MtChim": {
       "level": 35,
       "ability": "Hustle",
       "nature": "Jolly",
@@ -2718,7 +2718,7 @@ var SETDEX_SV = {
   },
 
   "Dracozolt": {
-    "Magma Grunt 1 Mt. Chimney & Magma Grunt 2 Mt. Chimney": {
+    "Magma Grunt 1 MtChim & Magma Grunt 2 MtChim": {
       "level": 35,
       "ability": "Hustle",
       "nature": "Jolly",
