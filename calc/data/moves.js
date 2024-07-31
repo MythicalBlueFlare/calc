@@ -4749,7 +4749,16 @@ var SV_PATCH = {
         type: 'Fairy',
         category: 'Special',
         zp: 160
-    }
+    },
+    'Matcha Gotcha': {
+        bp: 80,
+        type: 'Grass',
+        drain: [2, 4],
+        makesContact: true,
+        category: 'Special',
+        target: 'allAdjacentFoes',
+        zp: 160
+    },
 };
 var SV = (0, util_1.extend)(true, {}, SS, SV_PATCH);
 exports.MOVES = [{}, RBY, GSC, ADV, DPP, BW, XY, SM, SS, SV];

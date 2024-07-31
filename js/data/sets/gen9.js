@@ -660,7 +660,7 @@ var SETDEX_SV = {
     }
   },
 
-  "Farfetchd-Galar": {
+  "Farfetch’d-Galar": {
     "Battle Girl Laura": {
       "level": 19,
       "ability": "Scrappy",
@@ -1393,7 +1393,7 @@ var SETDEX_SV = {
     }
   },
 
-  "Eiscue-Ice-Face": {
+  "Eiscue": {
     "Aroma Lady Daisy": {
       "level": 30,
       "ability": "Ice Face",
@@ -1984,7 +1984,7 @@ var SETDEX_SV = {
     }
   },
 
-  "Sirfetch'd": {
+  "Sirfetch’d": {
     "Battle Girl Vivian & Guitarist Kirk": {
       "level": 31,
       "ability": "Sharpness",
