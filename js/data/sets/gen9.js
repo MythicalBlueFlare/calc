@@ -613,7 +613,7 @@ var SETDEX_SV = {
   },
 
   "Helioptile": {
-    "Lady Sarah & Rich Boy Dawson ": {
+    "Lady Sarah & Rich Boy Dawson": {
       "level": 18,
       "ability": "Dry Skin",
       "nature": "Timid",
@@ -629,7 +629,7 @@ var SETDEX_SV = {
   },
 
   "Brionne": {
-    "Lady Sarah & Rich Boy Dawson ": {
+    "Lady Sarah & Rich Boy Dawson": {
       "level": 18,
       "ability": "Torrent",
       "nature": "Modest",
