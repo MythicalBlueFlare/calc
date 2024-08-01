@@ -551,7 +551,7 @@ var SETDEX_SV = {
     }
   },
 
-  "Minior-Core-Red": {
+  "Minior": {
     "Leader Roxanne": {
       "level": 18,
       "ability": "Shields Down",
