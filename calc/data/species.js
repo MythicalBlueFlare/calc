@@ -4458,7 +4458,7 @@ var BW_PATCH = {
     abilities: {0: 'Chlorophyll'},
   },
   Liepard: {
-    types: ['Dark'],
+    types: ['Dark', 'Fairy'],
     bs: {hp: 64, at: 92, df: 50, sa: 92, sd: 50, sp: 106},
     weightkg: 37.5,
     abilities: {0: 'Infiltrator'},

@@ -660,7 +660,7 @@ var SETDEX_SV = {
     }
   },
 
-  "Farfetch’d-Galar": {
+  "Farfetch\u2019d-Galar": {
     "Battle Girl Laura": {
       "level": 19,
       "ability": "Scrappy",
@@ -1801,7 +1801,7 @@ var SETDEX_SV = {
       "ability": "Sand Spit",
       "nature": "Careful",
       "item": "Assault Vest",
-      "index": 174,
+      "index": 186,
       "moves": [
         "Earthquake",
         "Body Press",
@@ -1984,7 +1984,7 @@ var SETDEX_SV = {
     }
   },
 
-  "Sirfetch’d": {
+  "Sirfetch\u2019d": {
     "Battle Girl Vivian & Guitarist Kirk": {
       "level": 31,
       "ability": "Sharpness",
@@ -2320,13 +2320,205 @@ var SETDEX_SV = {
     }
   },
 
+  "Roserade": {
+    "Sinnoh Leader Gardenia": {
+      "level": 36,
+      "ability": "Natural Cure",
+      "nature": "Timid",
+      "item": "Focus Sash",
+      "index": 148,
+      "moves": [
+        "Energy Ball",
+        "Sludge Bomb",
+        "Spikes",
+        "Toxic Spikes"
+      ]
+    }
+  },
+
+  "Torterra": {
+    "Sinnoh Leader Gardenia": {
+      "level": 35,
+      "ability": "Overgrow",
+      "nature": "Jolly",
+      "item": "Loaded Dice",
+      "index": 149,
+      "moves": [
+        "Bullet Seed",
+        "Earthquake",
+        "Rock Blast",
+        "Shell Smash"
+      ]
+    }
+  },
+
+  "Cacturne": {
+    "Sinnoh Leader Gardenia": {
+      "level": 35,
+      "ability": "Stakeout",
+      "nature": "Adamant",
+      "item": "Life Orb",
+      "index": 150,
+      "moves": [
+        "Needle Arm",
+        "Knock Off",
+        "Low Kick",
+        "Sucker Punch"
+      ]
+    }
+  },
+
+  "Exeggutor": {
+    "Sinnoh Leader Gardenia": {
+      "level": 35,
+      "ability": "Chlorophyll",
+      "nature": "Timid",
+      "item": "Tanga Berry",
+      "index": 151,
+      "moves": [
+        "Giga Drain",
+        "Psychic",
+        "Weather Ball",
+        "Sunny Day"
+      ]
+    }
+  },
+
+  "Tangrowth": {
+    "Sinnoh Leader Gardenia": {
+      "level": 35,
+      "ability": "Regenerator",
+      "nature": "Brave",
+      "item": "Assault Vest",
+      "index": 152,
+      "moves": [
+        "Power Whip",
+        "Earthquake",
+        "Focus Blast",
+        "Rock Slide"
+      ]
+    }
+  },
+
+  "Sceptile": {
+    "Sinnoh Leader Gardenia": {
+      "level": 36,
+      "ability": "Overgrow",
+      "nature": "Mild",
+      "item": "Sceptilite",
+      "index": 153,
+      "moves": [
+        "Leaf Storm",
+        "Draco Meteor",
+        "Earthquake",
+        "Shed Tail"
+      ]
+    }
+  },
+
+  "Pelipper": {
+    "Kanto Leader Misty": {
+      "level": 35,
+      "ability": "Drizzle",
+      "nature": "Modest",
+      "item": "Damp Rock",
+      "index": 154,
+      "moves": [
+        "Weather Ball",
+        "Hurricane",
+        "Ice Beam",
+        "U-turn"
+      ]
+    }
+  },
+
+  "Kingdra": {
+    "Kanto Leader Misty": {
+      "level": 35,
+      "ability": "Swift Swim",
+      "nature": "Timid",
+      "item": "Scope Lens",
+      "index": 155,
+      "moves": [
+        "Hydro Pump",
+        "Draco Meteor",
+        "Ice Beam",
+        "Focus Energy"
+      ]
+    }
+  },
+
+  "Empoleon": {
+    "Kanto Leader Misty": {
+      "level": 35,
+      "ability": "Torrent",
+      "nature": "Bold",
+      "item": "Weakness Policy",
+      "index": 156,
+      "moves": [
+        "Surf",
+        "Flash Cannon",
+        "Aura Sphere",
+        "Agility"
+      ]
+    }
+  },
+
+  "Quagsire": {
+    "Kanto Leader Misty": {
+      "level": 35,
+      "ability": "Unaware",
+      "nature": "Adamant",
+      "item": "Rindo Berry",
+      "index": 157,
+      "moves": [
+        "Liquidation",
+        "Earthquake",
+        "Ice Punch",
+        "Curse"
+      ]
+    }
+  },
+
+  "Gyarados": {
+    "Kanto Leader Misty": {
+      "level": 36,
+      "ability": "Intimidate",
+      "nature": "Adamant",
+      "item": "Gyaradosite",
+      "index": 158,
+      "moves": [
+        "Waterfall",
+        "Crunch",
+        "Earthquake",
+        "Dragon Dance"
+      ]
+    }
+  },
+
+  "Starmie": {
+    "Kanto Leader Misty": {
+      "level": 36,
+      "ability": "Analytic",
+      "nature": "Modest",
+      "item": "Life Orb",
+      "index": 159,
+      "moves": [
+        "Hydro Pump",
+        "Psyshock",
+        "Thunderbolt",
+        "Recover"
+      ]
+    }
+  },
+
   "Froslass": {
     "Alola Elite Four Acerola": {
       "level": 35,
       "ability": "Cursed Body",
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 148,
+      "index": 160,
       "moves": [
         "Ice Beam",
         "Shadow Ball",
@@ -2342,7 +2534,7 @@ var SETDEX_SV = {
       "ability": "Flare Boost",
       "nature": "Modest",
       "item": "Flame Orb",
-      "index": 149,
+      "index": 161,
       "moves": [
         "Shadow Ball",
         "Air Slash",
@@ -2358,7 +2550,7 @@ var SETDEX_SV = {
       "ability": "Steelworker",
       "nature": "Adamant",
       "item": "Leftovers",
-      "index": 150,
+      "index": 162,
       "moves": [
         "Power Whip",
         "Shadow Claw",
@@ -2374,7 +2566,7 @@ var SETDEX_SV = {
       "ability": "Insomnia",
       "nature": "Adamant",
       "item": "Banettite",
-      "index": 151,
+      "index": 163,
       "moves": [
         "Shadow Claw",
         "Gunk Shot",
@@ -2390,7 +2582,7 @@ var SETDEX_SV = {
       "ability": "Disguise",
       "nature": "Jolly",
       "item": "Mimikium Z",
-      "index": 152,
+      "index": 164,
       "moves": [
         "Shadow Claw",
         "Play Rough",
@@ -2406,7 +2598,7 @@ var SETDEX_SV = {
       "ability": "Water Compaction",
       "nature": "Calm",
       "item": "Passho Berry",
-      "index": 153,
+      "index": 165,
       "moves": [
         "Shadow Ball",
         "Earth Power",
@@ -2419,7 +2611,7 @@ var SETDEX_SV = {
       "ability": "Water Compaction",
       "nature": "Bold",
       "item": "Weakness Policy",
-      "index": 162,
+      "index": 174,
       "moves": [
         "Shadow Ball",
         "Earth Power",
@@ -2435,7 +2627,7 @@ var SETDEX_SV = {
       "ability": "Torrent",
       "nature": "Adamant",
       "item": "Rindo Berry",
-      "index": 154,
+      "index": 166,
       "moves": [
         "Liquidation",
         "Earthquake",
@@ -2451,7 +2643,7 @@ var SETDEX_SV = {
       "ability": "No Guard",
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 155,
+      "index": 167,
       "moves": [
         "Earthquake",
         "Shadow Punch",
@@ -2467,7 +2659,7 @@ var SETDEX_SV = {
       "ability": "Poison Heal",
       "nature": "Jolly",
       "item": "Toxic Orb",
-      "index": 156,
+      "index": 168,
       "moves": [
         "Earthquake",
         "Dual Wingbeat",
@@ -2483,7 +2675,7 @@ var SETDEX_SV = {
       "ability": "Sturdy",
       "nature": "Jolly",
       "item": "Custap Berry",
-      "index": 157,
+      "index": 169,
       "moves": [
         "Earthquake",
         "Gunk Shot",
@@ -2499,7 +2691,7 @@ var SETDEX_SV = {
       "ability": "Levitate",
       "nature": "Adamant",
       "item": "Yache Berry",
-      "index": 158,
+      "index": 170,
       "moves": [
         "Earthquake",
         "Dragon Claw",
@@ -2515,7 +2707,7 @@ var SETDEX_SV = {
       "ability": "Water Absorb",
       "nature": "Impish",
       "item": "Black Sludge",
-      "index": 159,
+      "index": 171,
       "moves": [
         "Poison Jab",
         "Earthquake",
@@ -2531,7 +2723,7 @@ var SETDEX_SV = {
       "ability": "Sweet Veil",
       "nature": "Modest",
       "item": "Sitrus Berry",
-      "index": 160,
+      "index": 172,
       "moves": [
         "Dazzling Gleam",
         "Psychic",
@@ -2547,7 +2739,7 @@ var SETDEX_SV = {
       "ability": "Hospitality",
       "nature": "Modest",
       "item": "Rocky Helmet",
-      "index": 161,
+      "index": 173,
       "moves": [
         "Matcha Gotcha",
         "Shadow Ball",
@@ -2563,7 +2755,7 @@ var SETDEX_SV = {
       "ability": "Cute Charm",
       "nature": "Modest",
       "item": "Sitrus Berry",
-      "index": 163,
+      "index": 175,
       "moves": [
         "Draining Kiss",
         "Mystical Fire",
@@ -2579,7 +2771,7 @@ var SETDEX_SV = {
       "ability": "Storm Drain",
       "nature": "Bold",
       "item": "Leftovers",
-      "index": 164,
+      "index": 176,
       "moves": [
         "Power Gem",
         "Giga Drain",
@@ -2595,7 +2787,7 @@ var SETDEX_SV = {
       "ability": "Levitate",
       "nature": "Modest",
       "item": "Power Herb",
-      "index": 165,
+      "index": 177,
       "moves": [
         "Power Gem",
         "Psychic",
@@ -2611,7 +2803,7 @@ var SETDEX_SV = {
       "ability": "Rock Head",
       "nature": "Adamant",
       "item": "Air Balloon",
-      "index": 166,
+      "index": 178,
       "moves": [
         "Heavy Slam",
         "Head Smash",
@@ -2627,7 +2819,7 @@ var SETDEX_SV = {
       "ability": "Battle Armor",
       "nature": "Adamant",
       "item": "Silver Powder",
-      "index": 167,
+      "index": 179,
       "moves": [
         "Stone Edge",
         "First Impression",
@@ -2643,7 +2835,7 @@ var SETDEX_SV = {
       "ability": "Rock Head",
       "nature": "Adamant",
       "item": "Aerodactylite",
-      "index": 168,
+      "index": 180,
       "moves": [
         "Rock Slide",
         "Dual Wingbeat",
@@ -2659,7 +2851,7 @@ var SETDEX_SV = {
       "ability": "Sheer Force",
       "nature": "Adamant",
       "item": "Life Orb",
-      "index": 169,
+      "index": 181,
       "moves": [
         "Rock Slide",
         "Zen Headbutt",
@@ -2670,12 +2862,12 @@ var SETDEX_SV = {
   },
 
   "Meowstic": {
-    "Magma Grunt 1 MtChim & Magma Grunt 2 MtChim": {
+    "Grunt 1 Mt.Chim & Grunt 2 Mt.Chim": {
       "level": 35,
       "ability": "Prankster",
       "nature": "Timid",
       "item": "Covert Cloak",
-      "index": 170,
+      "index": 182,
       "moves": [
         "Psychic",
         "Mystical Fire",
@@ -2686,12 +2878,12 @@ var SETDEX_SV = {
   },
 
   "Reuniclus": {
-    "Magma Grunt 1 MtChim & Magma Grunt 2 MtChim": {
+    "Grunt 1 Mt.Chim & Grunt 2 Mt.Chim": {
       "level": 35,
       "ability": "Magic Guard",
       "nature": "Modest",
       "item": "Life Orb",
-      "index": 171,
+      "index": 183,
       "moves": [
         "Psychic",
         "Focus Blast",
@@ -2702,12 +2894,12 @@ var SETDEX_SV = {
   },
 
   "Squawkabilly": {
-    "Magma Grunt 1 MtChim & Magma Grunt 2 MtChim": {
+    "Grunt 1 Mt.Chim & Grunt 2 Mt.Chim": {
       "level": 35,
       "ability": "Hustle",
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 172,
+      "index": 184,
       "moves": [
         "Double-Edge",
         "Brave Bird",
@@ -2718,12 +2910,12 @@ var SETDEX_SV = {
   },
 
   "Dracozolt": {
-    "Magma Grunt 1 MtChim & Magma Grunt 2 MtChim": {
+    "Grunt 1 Mt.Chim & Grunt 2 Mt.Chim": {
       "level": 35,
       "ability": "Hustle",
       "nature": "Jolly",
       "item": "Expert Belt",
-      "index": 173,
+      "index": 185,
       "moves": [
         "Bolt Beak",
         "Dragon Rush",
@@ -2739,7 +2931,7 @@ var SETDEX_SV = {
       "ability": "Sand Rush",
       "nature": "Adamant",
       "item": "Expert Belt",
-      "index": 175,
+      "index": 187,
       "moves": [
         "Retaliate",
         "Play Rough",
@@ -2755,7 +2947,7 @@ var SETDEX_SV = {
       "ability": "Sand Force",
       "nature": "Impish",
       "item": "Sitrus Berry",
-      "index": 176,
+      "index": 188,
       "moves": [
         "Iron Tail",
         "Body Press",
@@ -2771,7 +2963,7 @@ var SETDEX_SV = {
       "ability": "Moxie",
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 177,
+      "index": 189,
       "moves": [
         "Earthquake",
         "Crunch",
@@ -2787,7 +2979,7 @@ var SETDEX_SV = {
       "ability": "Sand Rush",
       "nature": "Adamant",
       "item": "Focus Sash",
-      "index": 178,
+      "index": 190,
       "moves": [
         "Earthquake",
         "Iron Head",
@@ -2803,7 +2995,7 @@ var SETDEX_SV = {
       "ability": "Wandering Spirit",
       "nature": "Careful",
       "item": "Passho Berry",
-      "index": 179,
+      "index": 191,
       "moves": [
         "Earthquake",
         "Stone Edge",
@@ -2819,7 +3011,7 @@ var SETDEX_SV = {
       "ability": "Regenerator",
       "nature": "Jolly",
       "item": "Expert Belt",
-      "index": 180,
+      "index": 192,
       "moves": [
         "Dragon Rush",
         "Body Slam",
@@ -2835,7 +3027,7 @@ var SETDEX_SV = {
       "ability": "Infiltrator",
       "nature": "Modest",
       "item": "Wise Glasses",
-      "index": 181,
+      "index": 193,
       "moves": [
         "Shadow Ball",
         "Flamethrower",
@@ -2851,7 +3043,7 @@ var SETDEX_SV = {
       "ability": "Iron Fist",
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 182,
+      "index": 194,
       "moves": [
         "Hammer Arm",
         "Ice Punch",
@@ -2867,7 +3059,7 @@ var SETDEX_SV = {
       "ability": "Hustle",
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 183,
+      "index": 195,
       "moves": [
         "X-Scissor",
         "Iron Head",
@@ -2883,7 +3075,7 @@ var SETDEX_SV = {
       "ability": "White Smoke",
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 184,
+      "index": 196,
       "moves": [
         "Fire Lash",
         "Stomping Tantrum",
