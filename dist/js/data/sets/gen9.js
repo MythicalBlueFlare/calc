@@ -703,7 +703,7 @@ var SETDEX_SV = {
         "Low Sweep",
         "Rock Tomb",
         "Poison Jab",
-        "Power Up Punch"
+        "Power-Up Punch"
       ]
     }
   },
@@ -719,7 +719,7 @@ var SETDEX_SV = {
         "Storm Throw",
         "Rock Tomb",
         "Assurance",
-        "Power Up Punch"
+        "Power-Up Punch"
       ]
     }
   },
@@ -783,7 +783,7 @@ var SETDEX_SV = {
         "Drain Punch",
         "Rock Tomb",
         "Knock Off",
-        "Power Up Punch"
+        "Power-Up Punch"
       ]
     }
   },
@@ -1870,7 +1870,7 @@ var SETDEX_SV = {
         "Flying Press",
         "Throat Chop",
         "Poison Jab",
-        "Power Up Punch"
+        "Power-Up Punch"
       ]
     },
     "Battle Girl Vivian & Guitarist Kirk": {
@@ -2862,7 +2862,7 @@ var SETDEX_SV = {
   },
 
   "Meowstic": {
-    "Magma Grunt 1 Mt.Chim & Magma Grunt 2 Mt.Chim": {
+    "Grunt 1 MtChim & Grunt 2 MtChim": {
       "level": 35,
       "ability": "Prankster",
       "nature": "Timid",
@@ -2878,7 +2878,7 @@ var SETDEX_SV = {
   },
 
   "Reuniclus": {
-    "Magma Grunt 1 Mt.Chim & Magma Grunt 2 Mt.Chim": {
+    "Grunt 1 MtChim & Grunt 2 MtChim": {
       "level": 35,
       "ability": "Magic Guard",
       "nature": "Modest",
@@ -2894,7 +2894,7 @@ var SETDEX_SV = {
   },
 
   "Squawkabilly": {
-    "Magma Grunt 1 MtChim & Magma Grunt 2 MtChim": {
+    "Grunt 1 MtChim & Grunt 2 MtChim": {
       "level": 35,
       "ability": "Hustle",
       "nature": "Jolly",
@@ -2910,7 +2910,7 @@ var SETDEX_SV = {
   },
 
   "Dracozolt": {
-    "Magma Grunt 1 MtChim & Magma Grunt 2 MtChim": {
+    "Grunt 1 MtChim & Grunt 2 MtChim": {
       "level": 35,
       "ability": "Hustle",
       "nature": "Jolly",
@@ -3048,7 +3048,7 @@ var SETDEX_SV = {
         "Hammer Arm",
         "Ice Punch",
         "Knock Off",
-        "Power Up Punch"
+        "Power-Up Punch"
       ]
     }
   },
@@ -3080,7 +3080,7 @@ var SETDEX_SV = {
         "Fire Lash",
         "Stomping Tantrum",
         "Thunder Punch",
-        "Power Up Punch"
+        "Power-Up Punch"
       ]
     }
   },
