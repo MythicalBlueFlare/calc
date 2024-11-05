@@ -4310,7 +4310,7 @@ var BW_PATCH = {
   },
   Heatmor: {
     types: ['Fire', 'Ground'],
-    bs: {hp: 85, at: 127, df: 66, sa: 75, sd: 66, sp: 85},
+    bs: {hp: 85, at: 127, df: 66, sa: 55, sd: 66, sp: 85},
     weightkg: 58,
     abilities: {0: 'Tough Claws'},
   },
